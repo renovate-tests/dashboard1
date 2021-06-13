@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "2.0.0",
+    "lodash": "4.17.20"
+  },
+  "renovate": {
+    "dependencyDashboard": true
+  }
+}
